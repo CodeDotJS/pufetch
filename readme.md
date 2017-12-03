@@ -6,7 +6,7 @@
 	<br>
 </h1>
 
-<p align="center"> <b> THE BEST YOUTUBE PLAYLIST URL SCRAPPER AND EXPORTER! </b></p>
+<p align="center"> <b> The best youtube playlist url scrapper and exporter! </b></p>
 
 ## Install
 
